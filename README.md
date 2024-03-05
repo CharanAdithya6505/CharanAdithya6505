@@ -7,7 +7,7 @@
 <h3>About Me:</h3>
 <ol>
   <li>🔭 I’m currently working on <strong>Frontend Web development</strong></li>
-  <li>🌱 I’m currently learning <strong>DSA, WEB DEVELOPMENT, JAVA, C++, PYTHON, FINANCE</strong></li>
+  <li>🌱 I’m currently learning <strong>DSA, WEB DEVELOPMENT, JAVA, C++, PYTHON</strong></li>
   <li>👯 I’m looking to collaborate on <strong>GSoC contributions</strong></li>
   <li>🤝 I’m looking for help with <strong>web development</strong></li>
   <li>💬 Ask me about <strong>frontend</strong></li>
