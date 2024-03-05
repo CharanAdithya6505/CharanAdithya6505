@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/Ww1J78adEuoAAAAd/messi-messi-god.gif" alt="Inspiration" />
 </div>
-<h1 align="center"><strong>KOLLI CHARAN ADITHYA!</strong></h1>
+<h1 align="center"><i>KOLLI CHARAN ADITHYA!</i></h1>
 <h3 align="center">Interested in Coding & Startup</h3>
 </a> </p>
 <h2>About Me:</h2>
