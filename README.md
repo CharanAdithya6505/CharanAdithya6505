@@ -5,13 +5,15 @@
 <h3 align="center">May be a software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanadithya6505&label=Profile%20views&color=0e75b6&style=flat" alt="charanadithya6505" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charanadithya6505" alt="charanadithya6505" /></a> </p>
-- :telescope: I’m currently working on ** Frontend Web development **
-- :seedling: I’m currently learning **DSA,WEBDEVELOPMENT,JAVA,C++,PYTHON,FINANCE**
-- :dancers: I’m looking to collaborate on **Gsoc contributions**
-- :handshake: I’m looking for help with **webdevelopment**
-- :speech_balloon: Ask me about **frontend**
-- :mailbox: How to reach me **charanadithya6505@gmail.com**
-- :zap: Fun fact **smashing shuttels to cracking code!**
+<ol>
+  <li>🔭 I’m currently working on <strong>Frontend Web development</strong></li>
+  <li>🌱 I’m currently learning <strong>DSA, WEB DEVELOPMENT, JAVA, C++, PYTHON, FINANCE</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>GSoC contributions</strong></li>
+  <li>🤝 I’m looking for help with <strong>web development</strong></li>
+  <li>💬 Ask me about <strong>frontend</strong></li>
+  <li>📫 How to reach me: <strong>charanadithya6505@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>smashing shuttels to cracking code!</strong></li>
+</ol>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kca_655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kca_655" height="30" width="40" /></a>
