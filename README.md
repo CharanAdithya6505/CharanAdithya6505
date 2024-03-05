@@ -4,7 +4,7 @@
 <h1 align="center">Hi :wave:, I'm charan adithya!</h1>
 <h3 align="center">Interested in Coding & Startup</h3>
 </a> </p>
-<h3>About Me:</h3>
+<h2>About Me:</h2>
 <ol>
   <li>🔭 I’m currently working on <strong>Frontend Web development</strong></li>
   <li>🌱 I’m currently learning <strong>DSA, WEB DEVELOPMENT, JAVA, C++, PYTHON</strong></li>
