@@ -21,7 +21,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charanadithya6505&" alt="charanadithya6505" /></p>
 
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://www.buymeacoffee.com/charanadithya)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/charanadithya)
 
 
 
