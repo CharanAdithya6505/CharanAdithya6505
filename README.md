@@ -20,7 +20,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charanadithya6505&" alt="charanadithya6505" /></p>
 
-
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://www.buymeacoffee.com/charanadithya)
 
 
 
