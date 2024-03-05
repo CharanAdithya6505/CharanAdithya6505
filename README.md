@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/Ww1J78adEuoAAAAd/messi-messi-god.gif" alt="Inspiration" />
+  <img src="https://media1.tenor.com/m/Ww1J78adEuoAAAAd/messi-messi-god.gif" alt="Inspiration" style="border: 0;" />
 </div>
 <h1 align="center"><i>KOLLI CHARAN ADITHYA!</i></h1>
 <h3 align="center">Interested in Coding & Startup</h3>
@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </p>
+
 
 
 
