@@ -1,8 +1,9 @@
+![Your Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhannahrees.org.uk%2Fhttp%2Ftur.animalia-life.club%2Fmessi-tumblr-2023&psig=AOvVaw1OqIWAWpnHjOFAFzzL-3eA&ust=1709749740639000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDI-KPg3YQDFQAAAAAdAAAAABAw)
 <h1 align="center">Hi :wave:, I'm charan adithya</h1>
-<h3 align="center">Maybe a software developer.</h3>
+<h3 align="center">May be a software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanadithya6505&label=Profile%20views&color=0e75b6&style=flat" alt="charanadithya6505" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charanadithya6505" alt="charanadithya6505" /></a> </p>
-- :telescope: I’m currently working on **quiz app**
+- :telescope: I’m currently working on ** Frontend Web development **
 - :seedling: I’m currently learning **DSA,WEBDEVELOPMENT,JAVA,C++,PYTHON,FINANCE**
 - :dancers: I’m looking to collaborate on **Gsoc contributions**
 - :handshake: I’m looking for help with **webdevelopment**
