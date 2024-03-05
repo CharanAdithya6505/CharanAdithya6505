@@ -23,12 +23,13 @@
 ## 💰 You can help me by Donating
 <p align="center">
   <a href="https://www.buymeacoffee.com/charanadithya">
-    <div align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/5947.png" />
-</div>
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/5947.png" />
+</div>
 
 
 
