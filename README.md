@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </div>
-<h1 align="center"><i>KOLLI CHARAN ADITHYA!</i></h1>
+<h1 align="center"><strong>KOLLI CHARAN ADITHYA</strong></h1>
 <h3 align="center">Interested in Coding & Startup</h3>
 </a> </p>
 <h2>About Me:</h2>
