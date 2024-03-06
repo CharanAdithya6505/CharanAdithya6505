@@ -11,7 +11,7 @@
   <li>👯 I’m looking to collaborate on <strong>GSOC contributions</strong></li>
   <li>🤝 I’m looking for help with <strong>WEB DEVELOPMENT</strong></li>
   <li>💬 Ask me about <strong>Programming & Frontend</strong></li>
-  <li>📫 How to reach me: <strong>charanadithya6505@gmail.com</strong></li>
+  <li>📫 How to reach me: <a href="mailto:charanadithya6505@gmail.com">charanadithya6505@gmail.com</a></li>
   <li>⚡ Fun fact: <strong>Always Funny 😁!</strong></li>
 </ol>
 
