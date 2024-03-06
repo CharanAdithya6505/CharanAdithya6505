@@ -8,7 +8,7 @@
 <ol>
   <li>🔭 I’m currently working on <strong>DSA and Frontend Web development</strong></li>
   <li>🌱 I’m currently learning <strong>DSA, WEB DEVELOPMENT, JAVA, C++, PYTHON</strong></li>
-  <li>👯 I’m looking to collaborate on <strong>GSOC contributions</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>GSOC contributions & Frontend Projects</strong></li>
   <li>🤝 I’m looking for help with <strong>WEB DEVELOPMENT</strong></li>
   <li>💬 Ask me about <strong>Programming & Frontend</strong></li>
   <li>📫 How to reach me: <a href="mailto:charanadithya6505@gmail.com">charanadithya6505@gmail.com</a></li>
