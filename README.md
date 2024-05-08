@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 <h1 align="center"><strong>KOLLI CHARAN ADITHYA</strong></h1>
-<h3 align="center">Interested in Coding & Startup</h3>
+<h3 align="center">Tech & Sports Enthusiast</h3>
 </a> </p>
 <h2>About Me:</h2>
 <ol>
