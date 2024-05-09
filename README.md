@@ -1,7 +1,14 @@
 <div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/CharanAdithya6505" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Tech and Sports Enthusiast.
+<p display><strong>Tech and Sports Enthusiast.
+  <style>
+  p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
 </div>
 
 <hr></hr>
