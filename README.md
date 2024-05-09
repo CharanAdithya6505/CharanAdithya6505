@@ -4,7 +4,7 @@
 <p><strong>Tech and Sports Enthusiast.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/57z4NIPuE5wM4DDEcoP5Do?si=Yjv8Tm9dSFuxzFQpqzffOA&pi=KYW2OzTVSk6oa) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
