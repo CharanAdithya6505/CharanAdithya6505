@@ -46,11 +46,11 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : {"Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "OtherLanguages" : { "HTML", "CSS", "Json",},
     "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Editors" : { "Vscode", "Xcode",},
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Lightroom" }
   };
 }
 ```
@@ -69,13 +69,6 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
   
 <hr></hr>
 
