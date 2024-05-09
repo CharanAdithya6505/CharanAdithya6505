@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img src="https://i.pinimg.com/originals/0c/44/0a/0c440a567f8b9a6d164c3bc5ec53a7eb.gif" href="https://github.com/CharanAdithya6505" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://giffiles.alphacoders.com/219/219318.gif" href="https://github.com/CharanAdithya6505" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>Tech and Sports Enthusiast.
 </div>
