@@ -2,14 +2,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/CharanAdithya6505" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>Tech and Sports Enthusiast.
-<br><br> Vibing to : 🎧  </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/57z4NIPuE5wM4DDEcoP5Do?si=Yjv8Tm9dSFuxzFQpqzffOA&pi=KYW2OzTVSk6oa) <br>
-
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
