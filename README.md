@@ -1,7 +1,7 @@
 <div align="center" width="50">
 <img src="https://64.media.tumblr.com/8abd82557681432a27771adab5ae0c04/c209dbd4f5c40de9-4c/s540x810/59ba5f555753b28d8fe8e93aaa04b6d45d84fd1a.gif" href="https://github.com/CharanAdithya6505" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Tech and Sports Enthusiast.
+<p><strong>TECH AND SPORTS ENTHUSIAST.
 </div>
 
 <hr></hr>
