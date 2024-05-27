@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-634.gif" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ctryfyzr713c2eqb0kbfm1z62ylbe4v8xi4kbwcs&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="CoDiNg RocKs"  width="60%"/><br> 
 <br>
 <p><strong>TECH AND SPORTS ENTHUSIAST
 </div>
